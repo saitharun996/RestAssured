@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.rmgyantra.crud_without_BDD.UodatingTheData__Patch">
+      <class name="com.rgmyantra.requestchaining.RequestChaining_post_delete">
         <methods>
-          <include name="updateData"/>
+          <include name="requestChaining"/>
         </methods>
-      </class> <!-- com.rmgyantra.crud_without_BDD.UodatingTheData__Patch -->
+      </class> <!-- com.rgmyantra.requestchaining.RequestChaining_post_delete -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

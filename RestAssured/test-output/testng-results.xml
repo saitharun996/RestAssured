@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-26T07:47:58Z" name="Default suite" finished-at="2022-10-26T07:48:08Z" duration-ms="9498">
+  <suite started-at="2022-10-26T12:33:54Z" name="Default suite" finished-at="2022-10-26T12:33:57Z" duration-ms="3416">
     <groups>
     </groups>
-    <test started-at="2022-10-26T07:47:58Z" name="Default test" finished-at="2022-10-26T07:48:08Z" duration-ms="9498">
-      <class name="com.rmgyantra.crud_DIfferent_ways_to_post_request.CreatingProjectUsing_POJOClassTest">
-        <test-method signature="creatingProject(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:com.rmgyantra.crud_DIfferent_ways_to_post_request.CreatingProjectUsing_POJOClassTest@6986852]" started-at="2022-10-26T07:47:58Z" name="creatingProject" data-provider="provideData" finished-at="2022-10-26T07:48:07Z" duration-ms="8769" status="PASS">
+    <test started-at="2022-10-26T12:33:54Z" name="Default test" finished-at="2022-10-26T12:33:57Z" duration-ms="3416">
+      <class name="com.rgmyantra.requestchaining.RequestChaining_post_delete">
+        <test-method signature="requestChaining(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:com.rgmyantra.requestchaining.RequestChaining_post_delete@1e4d3ce5]" started-at="2022-10-26T12:33:54Z" name="requestChaining" data-provider="provideData" finished-at="2022-10-26T12:33:57Z" duration-ms="3332" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Puppy12]]>
+                <![CDATA[Puppy1294]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[RJNR_HOME]]>
+                <![CDATA[RJNR_HOME12]]>
               </value>
             </param>
             <param index="2">
@@ -32,34 +32,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- creatingProject -->
-        <test-method signature="creatingProject(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:com.rmgyantra.crud_DIfferent_ways_to_post_request.CreatingProjectUsing_POJOClassTest@6986852]" started-at="2022-10-26T07:48:07Z" name="creatingProject" data-provider="provideData" finished-at="2022-10-26T07:48:08Z" duration-ms="630" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[harsha]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[SDET_12ABN]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Created]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[7]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- creatingProject -->
-      </class> <!-- com.rmgyantra.crud_DIfferent_ways_to_post_request.CreatingProjectUsing_POJOClassTest -->
+        </test-method> <!-- requestChaining -->
+      </class> <!-- com.rgmyantra.requestchaining.RequestChaining_post_delete -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
