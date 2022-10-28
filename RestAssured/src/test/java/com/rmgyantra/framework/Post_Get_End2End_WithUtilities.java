@@ -5,7 +5,6 @@ import org.testng.annotations.Test;
 import com.rgmyantra.POJO.POJOClass;
 
 import genricUtilities.BaseAPIClass;
-import genricUtilities.DataBaseUtility;
 import genricUtilities.EndPoints;
 import genricUtilities.JavaUtility;
 import io.restassured.http.ContentType;
