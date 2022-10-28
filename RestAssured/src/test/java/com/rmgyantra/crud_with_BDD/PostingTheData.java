@@ -14,9 +14,9 @@ public class PostingTheData
 	{
 		JSONObject jobj = new JSONObject();
 		jobj.put("createdBy", "Tharun");
-		jobj.put("projectName", "SDET_324076899");
+		jobj.put("projectName", "SDET_3240888876899");
 		jobj.put("status", "Created");
-		jobj.put("teamSize", "16");
+		jobj.put("teamSize", 16);
 		
 		
 		given()
